@@ -26,5 +26,6 @@ def main(args=None):
 
 
 if __name__ == '__main__':
-    args = ("package", "0.1.15", "yuriihudan", "npm-package", "<TOKEN>")
-    main(args)
+    # For testing purpose, uncomment and give as a parameter to main function
+    # args = ("package", "0.1.15", "yuriihudan", "npm-package", "<TOKEN>")
+    main()
